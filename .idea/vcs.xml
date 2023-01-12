@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/SipApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/VoIP-Call-Sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GIT/nowinandroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvm_hilt_recycler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sheets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sunflower" vcs="Git" />
+  </component>
+</project>
